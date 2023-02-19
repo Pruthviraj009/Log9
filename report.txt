@@ -1,7 +1,0 @@
-
-Bangalore Hourly Rainfall Prediction (2020-2023)
-
-Training Data Size: 21940
-Testing Data Size: 5486
-Model: Linear Regression
-MAE: 0.18 mm
