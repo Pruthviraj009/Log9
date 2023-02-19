@@ -1,0 +1,16 @@
+
+Bangalore Hourly Rainfall Prediction (2018-2020)
+
+Training Data Size: 21941
+Testing Data Size: 5486
+
+Models:
+
+Linear Regression MAE: 0.18 mm
+
+Random Forest Regressor MAE: 0.26 mm
+
+XGBoost Regressor MAE: 0.22 mm
+
+Conclusion:
+Here the after applying the above models we can clearly see that Linear Regression performed well with low MAE out of all the other models
